@@ -1,0 +1,202 @@
+[
+    {
+        "ID": "3560070581870",
+        "Name": "CRUNCHY Muesli aux Fruits Rouges",
+        "Category": "cereals",
+        "Quantity": "400 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3560070581870",
+        "Nutritional information": {
+            "proteins": 11.0,
+            "fiber": 14.0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 3.0,
+            "energy": 1800.0,
+            "sugars": 4.0,
+            "saturated_fat": 2.9,
+            "sodium": 16.0
+        },
+        "Nutri-Score": {
+            "score": -3,
+            "grade": "A"
+        }
+    },
+    {
+        "ID": "7613037566314",
+        "Name": "NESTLE Nesquik (XXL)",
+        "Category": "cereals",
+        "Quantity": "950 g",
+        "URL": "https://fr.openfoodfacts.org/produit/7613037566314",
+        "Nutritional information": {
+            "proteins": 8.5,
+            "fiber": 8.6,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1590.0,
+            "sugars": 22.4,
+            "saturated_fat": 0.6,
+            "sodium": 88.0
+        },
+        "Nutri-Score": {
+            "score": -2,
+            "grade": "A"
+        }
+    },
+    {
+        "ID": "3387390326574",
+        "Name": "NESTLE Cookie Crisp",
+        "Category": "cereals",
+        "Quantity": "375 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3387390326574",
+        "Nutritional information": {
+            "proteins": 7.2,
+            "fiber": 6.0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1659.0,
+            "sugars": 22.4,
+            "saturated_fat": 0.9,
+            "sodium": 264.0
+        },
+        "Nutri-Score": {
+            "score": 1,
+            "grade": "B"
+        }
+    },
+    {
+        "ID": "7613034626844",
+        "Name": "NESTLE Chocapic",
+        "Category": "cereals",
+        "Quantity": "430 g",
+        "URL": "https://fr.openfoodfacts.org/produit/7613034626844",
+        "Nutritional information": {
+            "proteins": 8.6,
+            "fiber": 8.0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1625.0,
+            "sugars": 24.9,
+            "saturated_fat": 1.3,
+            "sodium": 88.0
+        },
+        "Nutri-Score": {
+            "score": 0,
+            "grade": "B"
+        }
+    },
+    {
+        "ID": "7613037793338",
+        "Name": "NESTLE Lion Chocolat & Caramel",
+        "Category": "cereals",
+        "Quantity": "750 g",
+        "URL": "https://fr.openfoodfacts.org/produit/7613037793338",
+        "Nutritional information": {
+            "proteins": 8.2,
+            "fiber": 5.8,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1729.0,
+            "sugars": 25.0,
+            "saturated_fat": 1.3,
+            "sodium": 196.0
+        },
+        "Nutri-Score": {
+            "score": 8,
+            "grade": "C"
+        }
+    },
+    {
+        "ID": "3159470204948",
+        "Name": "KELLOGG'S Special K Chocolat noir",
+        "Category": "cereals",
+        "Quantity": "550 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3159470204948",
+        "Nutritional information": {
+            "proteins": 8.6,
+            "fiber": 4.9,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1666.0,
+            "sugars": 20.0,
+            "saturated_fat": 2.6,
+            "sodium": 332.0
+        },
+        "Nutri-Score": {
+            "score": 8,
+            "grade": "C"
+        }
+    },
+    {
+        "ID": "5053827131971",
+        "Name": "KELLOGG'S Trésor",
+        "Category": "cereals",
+        "Quantity": "450 g",
+        "URL": "https://fr.openfoodfacts.org/produit/5053827131971",
+        "Nutritional information": {
+            "proteins": 6.6,
+            "fiber": 3.7,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 4.0,
+            "energy": 1838.0,
+            "sugars": 26.0,
+            "saturated_fat": 3.8,
+            "sodium": 376.0
+        },
+        "Nutri-Score": {
+            "score": 14,
+            "grade": "D"
+        }
+    },
+    {
+        "ID": "3560070749980",
+        "Name": "XTREM Tout choco",
+        "Category": "cereals",
+        "Quantity": "650 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3560070749980",
+        "Nutritional information": {
+            "proteins": 7.1,
+            "fiber": 6.0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 1.0,
+            "energy": 1806.0,
+            "sugars": 28.0,
+            "saturated_fat": 4.3,
+            "sodium": 216.0
+        },
+        "Nutri-Score": {
+            "score": 12,
+            "grade": "D"
+        }
+    },
+    {
+        "ID": "3017760404396",
+        "Name": "LU Prince Choco'Barre",
+        "Category": "cereal bars",
+        "Quantity": "125 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3017760404396",
+        "Nutritional information": {
+            "proteins": 5.2,
+            "fiber": 2.6,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1799.0,
+            "sugars": 31.0,
+            "saturated_fat": 8.4,
+            "sodium": 400.0
+        },
+        "Nutri-Score": {
+            "score": 21,
+            "grade": "E"
+        }
+    },
+    {
+        "ID": "3322680009966",
+        "Name": "WHAOU Cracky",
+        "Category": "pancake",
+        "Quantity": "256 g",
+        "URL": "https://fr.openfoodfacts.org/produit/3322680009966",
+        "Nutritional information": {
+            "proteins": 6.9,
+            "fiber": 0.0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.0,
+            "energy": 1959.0,
+            "sugars": 34.0,
+            "saturated_fat": 8.6,
+            "sodium": 304.0
+        },
+        "Nutri-Score": {
+            "score": 23,
+            "grade": "E"
+        }
+    }
+]
